@@ -1,0 +1,3 @@
+[submodule "xigua"]
+	path = xigua
+	url = git@github.com:jiacai2050/sicp.git
